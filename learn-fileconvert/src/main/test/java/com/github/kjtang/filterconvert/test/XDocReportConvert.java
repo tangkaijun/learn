@@ -1,6 +1,6 @@
 package com.github.kjtang.filterconvert.test;
 
-import com.github.kjtang.filterconvert.xdocreport.DocToPdf;
+import com.github.kjtang.fileconvert.xdocreport.DocToPdf;
 import org.junit.Test;
 
 /**

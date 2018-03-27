@@ -1,4 +1,4 @@
-package com.github.kjtang.filterconvert.xdocreport;
+package com.github.kjtang.fileconvert.xdocreport;
 
 import com.lowagie.text.FontFactory;
 import com.lowagie.text.FontFactoryImp;

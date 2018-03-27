@@ -1,4 +1,4 @@
-package com.github.kjtang.filterconvert.xdocreport;
+package com.github.kjtang.fileconvert.xdocreport;
 
 import org.apache.poi.xwpf.converter.pdf.PdfConverter;
 import org.apache.poi.xwpf.converter.pdf.PdfOptions;
